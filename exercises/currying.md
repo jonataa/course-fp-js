@@ -9,7 +9,7 @@ Dica: ```str.replace(/[aeiou]/ig, '*');```
 
 ## Exercício 02
 
-```
+```js
 var _ = require('ramda');
 
 
